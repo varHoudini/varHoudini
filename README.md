@@ -2,7 +2,7 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=angular,css,figma,html,js,mysql,nodejs,ts,bootstrap,linux,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,css,figma,html,js,mysql,nodejs,ts,bootstrap,linux,github,vscode,docker,python)](https://skillicons.dev)
 
 Welcome to my GitHub repository! Here's a quick overview of the skills I bring to the table:
 
